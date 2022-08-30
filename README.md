@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 
 ![silence1amb's GitHub stats](https://github-readme-stats.vercel.app/api?username=9aoyang&count_private=true&show_icons=true&theme=solarized-light)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
