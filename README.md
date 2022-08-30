@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 -->
 
 ![silence1amb's GitHub stats](https://github-readme-stats.vercel.app/api?username=9aoyang&count_private=true&show_icons=true&theme=github_dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=github_dark&layout=compact)]()
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=9aoyang&repo=ts-axios&theme=github_dark)]() -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](9aoyang.github.io)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=9aoyang&repo=ts-axios)]() -->
