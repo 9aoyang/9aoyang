@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 -->
 
 ![silence1amb's GitHub stats](https://github-readme-stats.vercel.app/api?username=9aoyang&count_private=true&show_icons=true&theme=solarized-light)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=solarized-light&layout=compact)]
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=9aoyang&repo=ts-axios)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=solarized-light&layout=compact)]()
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=9aoyang&repo=ts-axios)]()
